@@ -117,8 +117,21 @@ footer .copy p{
     .img-cel{
         display: none;
     }
+
+    .login-area{
+        margin: auto;
+    }
+
+    .body-page{
+        height: 874px;
+    }
 }
 
 @media(max-width: 450px){
+    .login-area{
+        border: none;
+        margin: auto;
+        margin-top: 0;
+    }
 
 }
